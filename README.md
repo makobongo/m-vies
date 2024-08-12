@@ -24,6 +24,3 @@
 ## m Vies Features
 
 - **Renders Trending & Upcoming movies**
-
-# License
-**[Creative Commons Attribution 4.0	cc-by-4.0](https://creativecommons.org/licenses/by/4.0/)**
